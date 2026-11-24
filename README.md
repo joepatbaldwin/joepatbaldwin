@@ -7,12 +7,15 @@
 ### What I've built
 
 **⚖️ [Justice Sentinel](https://justicesentinel.com)**: civil rights legal tech platform
+
 Helps people document police encounters and generate complaints, FOIA requests and court declarations. Built solo: React + TypeScript web app, Node.js/Express API, Firebase/Firestore, React Native app for iOS and Android, AI document drafting with Google Gemini on Vertex AI, an encrypted attorney portal, and automated Playwright testing.
 
 **📐 [ScopeVu](https://scopevu.com)**: AI plan intelligence for contractors
+
 Reads construction plan sets and answers questions with citations back to the exact sheet. React Native/Expo app with a Node.js backend on Google Cloud Run. Tested models against hand-verified answer keys and cut AI cost on bid pricing by about two-thirds with no loss in accuracy.
 
 **🎙️ Logic Doctrine**: AI video pipeline for a weekly podcast
+
 Agent-driven Python/ffmpeg pipeline that turns raw footage into captioned Shorts and full episodes, plus a mobile review app where the host approves every clip.
 
 > These product codebases are private. Happy to walk through the code in an interview.
